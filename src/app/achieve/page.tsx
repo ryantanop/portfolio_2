@@ -23,10 +23,9 @@ export default function Achieve() {
     return <div className="w-screen h-screen bg-[rgb(15_23_42)] overflow-hidden selection:bg-[rgb(94_234_212)]">
         <div className="fixed justify-center flex w-screen h-screen text-white overflow-y-scroll">
             <div className="w-[1280px] mt-[70px]">
-
                 <p className="flex items-center cursor-pointer my-[50px] text-white/80 group/arrowmove hover:text-[rgb(94_234_212)]" onClick={() => { router.push('/') }}>
                     <span className="group-hover/arrowmove:left-[-5px] left-0 relative transition-all duration-100 ease-in-out">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" className="mr-1 h-4 w-4 rotate-180 transition-transform group-hover:-translate-x-2" aria-hidden="true"><path fill-rule="evenodd" d="M3 10a.75.75 0 01.75-.75h10.638L10.23 5.29a.75.75 0 111.04-1.08l5.5 5.25a.75.75 0 010 1.08l-5.5 5.25a.75.75 0 11-1.04-1.08l4.158-3.96H3.75A.75.75 0 013 10z" clip-rule="evenodd"></path></svg>
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" className="mr-1 h-4 w-4 rotate-180 transition-transform group-hover:-translate-x-2" aria-hidden="true"><path fillRule="evenodd" d="M3 10a.75.75 0 01.75-.75h10.638L10.23 5.29a.75.75 0 111.04-1.08l5.5 5.25a.75.75 0 010 1.08l-5.5 5.25a.75.75 0 11-1.04-1.08l4.158-3.96H3.75A.75.75 0 013 10z" clipRule="evenodd"></path></svg>
                     </span>
                     <span className="border-b border-[rgb(94_234_212)]/0 group-hover/arrowmove:text-[rgb(94_234_212)] transition-all duration-100">Loi Nguyen</span>
                 </p>
