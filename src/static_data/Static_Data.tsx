@@ -128,6 +128,7 @@ export const Prev_Projects = [
 export const Projects = [
     {
         title: "contingent",
+        title1: "Contingent",
         project_description:
             "Contingent is a modern Supplier Insight and Third-Party Risk Management platform used by hundreds of procurement and supply-chain teams—including government agencies, global enterprises, and regulated industries. The platform centralizes supplier data, automates due-diligence, and provides real-time monitoring across financial, compliance, and operational risk indicators.",
         my_role:
@@ -148,6 +149,7 @@ export const Projects = [
     },
     {
         title: "konaequity",
+        title1: "Kona Equity",
         project_description:
             "Kona Equity is a private-company intelligence platform built for dealmakers, operators, and growth teams who need deeper insights into fast-moving markets. It provides unmatched visibility into revenue, employee counts, industry classifications, and executive contacts across millions of companies in the U.S. and Canada.",
         my_role:
@@ -168,6 +170,7 @@ export const Projects = [
     },
     {
         title: "minimals",
+        title1: "Minimals",
         project_description:
             "Minimal is a modern, professional design system and UI starter kit built on MUI, designed to help developers and designers rapidly build applications with consistent branding, reusable components, and a highly customizable interface. It supports JavaScript, TypeScript, Next.js, Vite, and includes a full Figma design resource for product teams.",
         my_role:
@@ -188,6 +191,7 @@ export const Projects = [
     },
     {
         title: "portion",
+        title1: "Portion",
         project_description:
             "Portion was a pioneering decentralized marketplace launched in 2016 to connect art, luxury goods, and blockchain technology. Built on Ethereum and IPFS, the platform allowed collectors to authenticate, trade, and manage both physical and digital art through blockchain-backed certificates. As NFTs exploded in 2021, Portion became a central player in the ecosystem, offering verification, provenance, escrow, and identity tools long before the space went mainstream.",
         my_role:
@@ -208,6 +212,7 @@ export const Projects = [
     },
     {
         title: "preloved",
+        title1: "Pre Loved1",
         project_description:
             "This project involved building a large-scale, community-driven marketplace where users can buy, sell, and rehome items ranging from furniture and fashion to pets, vehicles, and collectibles. The platform features category-based browsing, location-aware search, membership options, safety guidelines, and rich content around responsible pet ownership and seller verification.",
         my_role:
@@ -228,6 +233,7 @@ export const Projects = [
     },
     {
         title: "scribbletogether",
+        title1: "Scribble Together",
         project_description:
             "Scribble Together is a fast, simple online whiteboard designed for real-time collaboration across devices. Built for educators, tutors, students, creative teams, and remote collaborators, the platform delivers an exceptionally smooth drawing experience—especially on iPad with Apple Pencil—and offers powerful tools like PDF markup, infinite canvas, laser pointer interactions, and cross-platform accessibility.",
         my_role:
@@ -248,6 +254,7 @@ export const Projects = [
     },
     {
         title: "selectrealestate",
+        title1: "Select Real Estate",
         project_description:
             "This project involved building a fully featured property management and rental listing platform for Select Real Estate, a long-established brokerage in the Fraser Valley. The website provides a seamless experience for both property owners and tenants, offering tools for tenant screening, rent collection, maintenance coordination, and access to rental listings across Chilliwack, Abbotsford, Hope, and surrounding communities.",
         my_role:

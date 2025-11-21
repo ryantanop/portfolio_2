@@ -28,3 +28,7 @@ body {
 .ShowAbout:hover {
   width: 100px !important;
 }
+
+.magic_circle {
+  background: radial-gradient(600px at 616px 1765px, rgba(29, 78, 216, 0.15), transparent 80%);
+}

@@ -26,7 +26,7 @@ export default function AchiveTableRow({ data }: AchieveTableRowProps) {
         <div className="w-1/3">
             {data.BuiltWith.split(' ').map((skill, index) => <SkillCard key={`Skill ${index}`} skill={skill} />)}
         </div>
-        <div className="w-1/6 text-white/70 text-[14px]">
+        <div className="w-1/5 text-white/70 text-[14px]">
             <p className="cursor-pointer my-[50px] group/arrowmove hover:text-[rgb(94_234_212)]" onClick={() => { window.open('/Loi Nguyen Resume.pdf', '_blank') }}>
                 <a href={data.Link} target="_blank">{data.Link}</a>
                 <span className="relative left-0 top-0 group-hover/arrowmove:left-[5px] group-hover/arrowmove:top-[-5px] transition-all duration-100 ease-in-out">

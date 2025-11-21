@@ -43,7 +43,7 @@ export default function Achieve() {
                     <div className="w-1/3">
                         Built with
                     </div>
-                    <div className="w-1/6">
+                    <div className="w-1/5">
                         Link
                     </div>
                 </div>
